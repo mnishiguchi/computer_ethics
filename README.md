@@ -4,7 +4,7 @@
 - The branch of philosophy
 - Addresses issues of human action from the perspective of their **moral goodness or wrongness**
 
-Reference
+**Reference**
 - New Millennium; New Technology; Same Old Right & Wrong
 - A Gift of Fire- Social, Legal, and Ethical Issues for Computing Technology
 
@@ -158,3 +158,101 @@ Ethical theories help to identify important principles or guidelines.
     + https://duckduckgo.com/privacy
 
 ==
+
+## [New Jersey v. Dharun Ravi](https://en.wikipedia.org/wiki/New_Jersey_v._Dharun_Ravi)
+-  a criminal trial held in Middlesex County, New Jersey Superior Court from February 24, 2012 to March 16, 2012
+-  Ravi was tried and convicted on 15 counts of crimes involving:
+    +  invasion of privacy,
+    +  attempted invasion of privacy,
+    +  bias intimidation,
+    +  tampering with evidence,
+    +  witness tampering, and
+    +  hindering apprehension or prosecution.
+- In the first incident
+    + Ravi and his friend Molly Wei used a webcam to view a private romantic encounter between Ravi's roommate, Tyler Clementi, and another man identified only as "M.B.
+- In the second incident
+    + Ravi urged friends and Twitter followers to watch via his webcam a second tryst between Clementi and M.B., though the viewing never occurred. Clementi committed suicide on September 22, 2010, and his death brought national and international attention to Ravi's trial.
+- Ravi was sentenced to:
+    + 30 days in jail,
+    + 3 years probation, 
+    + 300 hours of community service, 
+    + a $10,000 fine, and counseling on cyberbullying and 
+    + alternate lifestyles.
+
+==
+
+## Authentication
+
+- Password, one-time password
+- Cards
+- Micro chips
+- Biometric (fingerprint, eye, etc)
+    + Disadvantages: False positive / False negative (Errors)
+
+==
+
+## [Re-identification](https://epic.org/privacy/reidentification/)
+
+-  the process by which anonymized personal data is matched with its true owner. In order to protect the privacy interests of consumers, personal identifiers, such as name and social security number, are often removed from databases containing sensitive information.
+
+- e.g., Search query data (p51)
+
+    + Search engines collect many terabytes of data daily.
+    + The companies analyze the data to improve search services, to target advertising better, and to develop new services.
+    + By analyzing search queries, companies draw conclusions about what kinds of products and features people are looking for. They modify their products to meet consumer preferences.
+    + In 2006, the federal government presented Google with a subpoena for two months of user search queries and all the Web addresses that Google indexes. Google protested, bringing the issue to public attention. Although the subpoena did not ask for names of users, the idea of the government gaining access to the details of people’s searches horrified privacy advocates and many people who use search engines. Google and privacy advocates opposed the precedent of government access to large masses of such data. A court reduced the scope of the subpoena, removing user queries.
+
+- e.g., Smartphones (p53)
+    - send location data to Google and Apple
+    - sent age and gender in- formation to advertising companies
+    - various apps copy the user’s contact list to remote servers
+    - bank account numbers and security access codes in a hidden file on the user’s phone
+    - **Some issues**:
+        - Our contact lists and photos are ours; we should have control of them.
+        - Law enforcement blindly relies on sometime flawed data.
+
+- e.g., Data mining (p58)
+    + searching and analyzing masses of data to find patterns and develop new information or knowledge.
+    + e.g., research using social network data and smartphone data
+- e.g., Opt in vs Opt out (p59)
+- e.g., National ID system
+
+==
+
+## Review Exercises (p119)
+
+### 2.1 personal information
+- Includes any information relating to, or traceable to, an individual person.
+- Includes information associated with a particular person’s “handle,” user name, online nickname, identification number, email address, or phone number.
+- Extends to any information, including images, from which someone can identify a living individual.
+
+### 2.2 secondary use
+- The use of personal information for a purpose other than the one for which the person supplied it.
+- Examples:
+    + sale of consumer information to marketers or other businesses,
+    + use of information in various databases to deny someone a job or to tailor a political pitch,
+    + the Internal Revenue Service searching vehicle registration records for people who own expensive cars and boats (to find people with high incomes),
+    + use of text messages by police to prosecute someone for a crime, and
+    + the use of a supermarket’s customer database to show alcohol purchases by a man who sued the store because he fell down.
+
+### 2.3 re-identification mean
+- Identifying the individual from a set of anonymous data
+- e.g., Journalists and acquaintances identified people in small communities who searched on numerous specific topics, such as the cars they own, the sports teams they follow, their health problems, and their hobbies.
+
+### 2.4 opt-in vs opt-out policies for secondary uses of personal information
+#### opt-in
+- the collector of the information may not use it for secondary uses unless the person explicitly checks or clicks a box or signs a form permitting the use.
+
+#### opt-out
+- more people are likely to be "in"
+- common now
+
+### 2.5 Describe one application of face recognition that infringes privacy.
+
+
+### 2.6 Describe two tools people can use to protect their privacy on the Web.
+
+
+### 2.7 Describe two methods a business or agency can use to reduce the risk of unauthorized release of personal information by employees.
+
+
