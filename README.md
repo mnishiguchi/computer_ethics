@@ -219,14 +219,14 @@ Ethical theories help to identify important principles or guidelines.
 
 ==
 
-## Review Exercises (p119)
+## Some terms
 
-### 2.1 personal information
+### Personal information
 - Includes any information relating to, or traceable to, an individual person.
 - Includes information associated with a particular person’s “handle,” user name, online nickname, identification number, email address, or phone number.
 - Extends to any information, including images, from which someone can identify a living individual.
 
-### 2.2 secondary use
+### Secondary use
 - The use of personal information for a purpose other than the one for which the person supplied it.
 - Examples:
     + sale of consumer information to marketers or other businesses,
@@ -235,24 +235,62 @@ Ethical theories help to identify important principles or guidelines.
     + use of text messages by police to prosecute someone for a crime, and
     + the use of a supermarket’s customer database to show alcohol purchases by a man who sued the store because he fell down.
 
-### 2.3 re-identification mean
+### Re-identification
 - Identifying the individual from a set of anonymous data
 - e.g., Journalists and acquaintances identified people in small communities who searched on numerous specific topics, such as the cars they own, the sports teams they follow, their health problems, and their hobbies.
 
-### 2.4 opt-in vs opt-out policies for secondary uses of personal information
-#### opt-in
+### Opt-in vs Opt-out policies for secondary uses of personal information
+#### Opt-in
 - the collector of the information may not use it for secondary uses unless the person explicitly checks or clicks a box or signs a form permitting the use.
 
-#### opt-out
+#### Opt-out
 - more people are likely to be "in"
 - common now
 
-### 2.5 Describe one application of face recognition that infringes privacy.
+### Intellectual property
+- used to describe a unique creation of the human mind that has commercial value.
+- Examples includes:
+    + Photographs
+    + Technology
+    + Logo
+    + Slogan
+    + Color
+    + Sound
+    + Novels
+    + Films
+    + Music
+    + Paintings
+    + Architectual designs
 
+### trademark vs trade secret
+- [trademark](https://en.wikipedia.org/wiki/Trademark):
+    + a recognizable sign, design, or expression which identifies products or services of a particular source from those of others, although trademarks used to identify services are usually called service marks.
+    + identifies the brand owner of a particular product or service. 
+    + can be licensed to others;
+- [trade secret](https://en.wikipedia.org/wiki/Trade_secret)
+    + a formula, practice, process, design, instrument, pattern, commercial method, or compilation of information which is not generally known or reasonably ascertainable by others, and by which a business can obtain an economic advantage over competitors or customers. 
+        * e.g., Coca-cola recipe
+- cf. [Reverse engineering](https://en.wikipedia.org/wiki/Reverse_engineering): also called back engineering, is the processes of extracting knowledge or design information from anything man-made and re-producing it or reproducing anything based on the extracted information.
 
-### 2.6 Describe two tools people can use to protect their privacy on the Web.
+### [Digital Millennium Copyright Act (DMCA)](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)
+    + a United States copyright law that implements two 1996 treaties of the **World Intellectual Property Organization (WIPO)**
+    + criminalizes **production and dissemination of technology, devices, or services intended to circumvent measures** (commonly known as digital rights management or DRM) that control access to copyrighted works.
+    + criminalizes the act of **circumventing an access control**, whether or not there is actual infringement of copyright itself
 
+### [Digital rights management (DRM)](https://en.wikipedia.org/wiki/Digital_rights_management)
+    + various access control technologies that are used to restrict the usage of proprietary software, hardware, or content
+        * e.g., copy protection 
 
-### 2.7 Describe two methods a business or agency can use to reduce the risk of unauthorized release of personal information by employees.
-
-
+### Negative rights(liberties) vs positive rights(claim rights) p31
+- https://en.wikipedia.org/wiki/Negative_and_positive_rights
+- http://ualawccsprod.srv.ualberta.ca/ccs/index.php/pr/534-positive-and-negative-rights
+    + Positive right:
+        * Liberties
+        * Impose an obligation on some people to provide certain things for others
+        * My right to have something provided for me
+        * Require the government to act in certain ways
+    + Negative right:
+        * Claim rights
+        * Rights to act without interference
+        * A right for me to be protected from harm if I try to get something for myself
+        * Require the government to refrain from acting in certain ways; governments can respect individuals' negative rights simply by doing nothing at all.
