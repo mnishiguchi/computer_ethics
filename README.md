@@ -289,8 +289,84 @@ Ethical theories help to identify important principles or guidelines.
         * Impose an obligation on some people to provide certain things for others
         * My right to have something provided for me
         * Require the government to act in certain ways
+        * e.g.,
+            - ...
+            - ...
     + Negative right:
         * Claim rights
         * Rights to act without interference
         * A right for me to be protected from harm if I try to get something for myself
         * Require the government to refrain from acting in certain ways; governments can respect individuals' negative rights simply by doing nothing at all.
+        * e.g.
+            - The rights to “life, liberty, and the pursuit of happiness” described in the U.S. Declaration of Independence are liberties, or negative rights. Freedom of speech and religion, as guaranteed in the First Amendment of the U.S. Constitution, are negative rights: the government may not interfere with you, jail you, or kill you because of what you say or what your religious beliefs are.
+            - ...
+
+==
+
+## National ID System 
+
+### Social Security numbers (p92)
+- First appeared in 1936
+- Used for identification for credit, financial services, and numerous other services
+- Its insecurity compromises our privacy and exposes us to fraud and identity theft.
+
+==
+
+## [CIA triad](http://whatis.techtarget.com/definition/Confidentiality-integrity-and-availability-CIA)
+- Confidentiality
+    - roughly equivalent to privacy
+- Integrity
+    - consistency, accuracy, and trustworthiness of data over its entire life cycle
+- Available
+    - best ensured by rigorously maintaining all hardware, performing hardware repairs immediately when needed and maintaining a correctly functioning operating system environment that is free of software conflicts 
+
+==
+
+## [Denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_attack)
+- An attempt to make a machine or network resource unavailable to its intended users, such as to temporarily or indefinitely interrupt or suspend services of a host connected to the Internet.
+- The flood of incoming messages to the target system essentially forces it to shut down, thereby denying service to the system to legitimate users.
+
+==
+
+## [Syn attack(]https://en.wikipedia.org/wiki/SYN_flood)
+- A SYN flood is a form of denial-of-service attack in which an attacker sends a succession of SYN requests to a target's system in an attempt to consume enough server resources to make the system unresponsive to legitimate traffic.
+- [Three-way handshake](https://en.wikipedia.org/wiki/Transmission_Control_Protocol#Connection_establishment)
+    1. The client requests a connection by sending a `SYN` (synchronize) message to the server.
+    2. The server acknowledges this request by sending `SYN-ACK` back to the client.
+    3. The client responds with an `ACK`, and the connection is established.
+
+==
+
+## [Check digit](https://en.wikipedia.org/wiki/Check_digit)
+
+==
+
+## [Big data](https://en.wikipedia.org/wiki/Big_data)
+- http://www.datanami.com/2015/01/07/9-must-skills-land-top-big-data-jobs-2015/
+
+==
+
+## [Internet of things](https://en.wikipedia.org/wiki/Internet_of_Things)
+- the network of physical objects—devices, vehicles, buildings and other items which are embedded with electronics, software, sensors, and network connectivity, which enables these objects to collect and exchange data
+
+==
+
+## [Net neutrality](https://en.wikipedia.org/wiki/Net_neutrality)
+- the principle that Internet service providers and governments should treat all data on the Internet the same, not discriminating or charging differentially by user, content, site, platform, application, type of attached equipment, or mode of communication. 
+- Net neutrality is the principle that data packets on the Internet should be moved impartially, without regard to content, destination or source. Net neutrality is sometimes referred to as the "First Amendment of the Internet."
+
+==
+
+## Privacy Regulations in the European Union
+- Strict
+
+==
+
+## Resources
+- [The Risks of Electronic Communication](http://www.multicians.org/thvv/emailbad.html)
+- [CLOUD-BASED EMAIL ARCHITECTURE FOR HIGHER EDUCATION
+INSTITUTIONS](http://iacis.org/iis/2011/339-345_AL2011_1704.pdf)
+
+==
+
+
