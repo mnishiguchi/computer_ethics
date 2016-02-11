@@ -106,10 +106,6 @@ Ethical theories help to identify important principles or guidelines.
 
 - [Telemedicine](https://en.wikipedia.org/wiki/Telemedicine)
 - Artificial intelligence
-- [Fourth amendment](http://constitution.findlaw.com/amendment4.html) 
-    + The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized. - See more at: http://constitution.findlaw.com/amendment4.html#sthash.tbN0P5Vl.dpuf 
-- Encription
-    + 
 - Digital divide
     + The gap between demographics and regions that have access to modern information and communications technology, and those that don't or have restricted access. 
     + Include the telephone, television, personal computers and the Internet.
@@ -328,7 +324,7 @@ Ethical theories help to identify important principles or guidelines.
 
 ==
 
-## [Syn attack(]https://en.wikipedia.org/wiki/SYN_flood)
+## [Syn attack](https://en.wikipedia.org/wiki/SYN_flood)
 - A SYN flood is a form of denial-of-service attack in which an attacker sends a succession of SYN requests to a target's system in an attempt to consume enough server resources to make the system unresponsive to legitimate traffic.
 - [Three-way handshake](https://en.wikipedia.org/wiki/Transmission_Control_Protocol#Connection_establishment)
     1. The client requests a connection by sending a `SYN` (synchronize) message to the server.
@@ -357,16 +353,76 @@ Ethical theories help to identify important principles or guidelines.
 
 ==
 
-## Privacy Regulations in the European Union
-- Strict
+## [Digital divide](http://whatis.techtarget.com/definition/digital-divide)
+- Refer to the gap between demographics and regions that have access to modern information and communications technology, and those that don't or have restricted access.
+- Can include the telephone, television, personal computers and the Internet.
 
 ==
 
-## Resources
-- [The Risks of Electronic Communication](http://www.multicians.org/thvv/emailbad.html)
-- [CLOUD-BASED EMAIL ARCHITECTURE FOR HIGHER EDUCATION
-INSTITUTIONS](http://iacis.org/iis/2011/339-345_AL2011_1704.pdf)
+## [U.S. Constitutional Amendments](http://constitution.findlaw.com/amendments.html)
+
+### [First Amendment](http://constitution.findlaw.com/amendment1.html)
++ "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the government for a redress of grievances."
++ http://www.firstamendmentstudies.org/wp/libel.html
+
+#### Does not protect 
+- Hate Speech
+- Inciting Violence
+- Supporting Terrorism
+- Public Employee Speech
+- Defamation
+- Intellectual Property
+- True Threats
+    + The category of "true threat" is narrow because government has often used the idea of "threat" as an excuse to punish dissenters, whose speech is often exaggerated and inflammatory.
+
+### [Fourth amendment](http://constitution.findlaw.com/amendment4.html) 
+    + The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized. - See more at: http://constitution.findlaw.com/amendment4.html#sthash.tbN0P5Vl.dpuf 
+
 
 ==
+
+## Disclosure, exposure, Surveillance, aggregation
+-
+
+==
+
+## [Snopes.com](https://en.wikipedia.org/wiki/Snopes.com)
+- also known as the Urban Legends Reference Pages, is a website covering urban legends, Internet rumors, e-mail forwards, and other stories of unknown or questionable origin.
+
+==
+
+## [Electronic frontier foundation](https://www.eff.org/)
+- Defending your rights in the digital world
+
+==
+
+## fair use of a copyrighted work
+- According to US Code, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright.
+
+==
+
+## US copyright
+- gives authors the right to:
+    + reproduce the copyrighted work
+    + prepare derivative works based upon the copyrighted work
+    + distribute copies of the copyrighted work to the public by sale or other transfer of ownership, or by rental, lease, or lending
+    + perform or display the copyrighted work publicly 
+
+==
+
+## Digital rights management (DRM)
+- a collection of technologies that work together to ensure that copyrighted content can be only viewed by the person who purchased it
+
+==
+
+## Digital Millennium Copyright Act (DMCA)
+- law passed by US Congress in 1998 to deal with modern copyright issues
+- Anticircumvention clause: “No person shall circumvent a technological measure that effectively controls access to a work protected under this title.”
+
+==
+
+## ACM code
+
+
 
 
