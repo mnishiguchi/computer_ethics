@@ -1,4 +1,4 @@
-# Computing ethics - PRETEST
+# Computer ethics - PRETEST
 
 ### QUESTION 1
 ```
@@ -7,44 +7,49 @@ A broad definition of privacy is written in the U.S. Constitution.
    False
 ```
 
-Ans. True
+> Ans. True
+
+> [Constitutional basis for right to privacy](https://en.wikipedia.org/wiki/Privacy_laws_of_the_United_States#Constitutional_basis_for_right_to_privacy)
+
+--
 
 ### QUESTION 2
-The ____ Amendment is sometimes, but not always interpreted as a protection for the right to be let alone.
-  
-    Fourteenth
-  
-    Ninth
-  
-    Twenty-fourth
-  
-    Fourty-fifth
 
-Ans. Fourteenth
+```
+The ____ Amendment is sometimes, but not always interpreted as a protection for the right to be let alone.
+    Fourteenth
+    Ninth
+    Twenty-fourth
+    Fourty-fifth
+```
+
+Ans. Fourteenth ???
+
+--
 
 ### QUESTION 3
-The act of using someone else’s identity for one’s own ends is called ___________.
-  
-    exposure
-  
-    appropriation
-  
-    insecurity
-  
-    blackmail
 
-Ans. Blackmail
+```
+The act of using someone else’s identity for one’s own ends is called ___________.
+    exposure
+    appropriation
+    insecurity
+    blackmail
+```
+
+Ans. Appropriation
+
+--
 
 ### QUESTION 4
 Which of these is not a typical definition of privacy found in general dictionaries?
-  
+
+```
     seclusion
-  
     secrecy or concealment
-  
     freedom from intrusion
-  
     freedom to own obscene material
+```
 
 Ans. Freedom to own obscene material 
 
