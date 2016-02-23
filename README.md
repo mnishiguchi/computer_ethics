@@ -291,22 +291,11 @@ The original form of a message is known as plaintext, and the encrypted form is 
 
 ==
 
-## Ruby
+## [Ethics in Photojournalism: Past, Present, and Future](http://web.mit.edu/drb/Public/PhotoThesis/)
 
-```
-# character.ord #==> convert charcter to ascii
-# ascii.chr     #==> convert ascii to charcter
-s = "wklv phvvdjh lv qrw wrr kdug wr euhdn"
-a = s.split("")
-a.map do |c|
-  if c == " "
-    " "
-  else
-    ( c.ord - 3 ).chr
-  end
-end.join #==> "this message is not too hard to break"
-```
+### the National Press Photographers Association's Code of Ethics reads, in part
+Photographic and video images can reveal great truths, expose wrongdoing and neglect, inspire hope and understanding and connect people around the globe through the language of visual understanding. Photographs can also cause great harm if they are callously intrusive or are manipulated.3  
 
 ==
 
-
+## [Steganography](https://en.wikipedia.org/wiki/Steganography)

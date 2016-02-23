@@ -17,4 +17,33 @@
 
 ==
 
-##
+## [A Taxonomy of Privacy](https://wiki.openrightsgroup.org/wiki/A_Taxonomy_of_Privacy)
+
+"A Taxonomy of Privacy" is a work by Daniel J. Solove which attempts to order the different harms that may arise from infringements in privacy. Solove based this taxonomy on tort scholar William Prosser's work, who distinguished four different types of harmful activities under the privacy blanket:
+
+- Intrusion upon the plaintiff’s seclusion or solitude, or into his private affairs.
+- Public disclosure of embarrassing private facts about the plaintiff.
+- Publicity which places the plaintiff in a false light in the public eye.
+- Appropriation, for the defendant’s advantage, of the plaintiff’s name or likeness.
+
+### The taxonomy
+- Information collection
+    + Surveillance
+    + Interrogation
+- Information processing
+    + Aggregation
+    + Identification
+    + Insecurity
+    + Secondary use
+    + Exclusion
+- Dissemination of information
+    + Breach of confidentiality
+    + Disclosure
+    + Exposure
+    + Increased accessibility
+    + Blackmail
+    + Appropriation
+    + Distortion
+- Invasion
+    + Intrusion
+    + Decisional interference
