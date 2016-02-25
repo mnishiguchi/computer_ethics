@@ -60,7 +60,6 @@ Ethical theories help to identify important principles or guidelines.
 **Social contracts and a theory of political justice**
 - People willingly submit to a common law in order to live in a civil society.
 
-
 ==
 
 ## How to decide what is ethical?
@@ -101,6 +100,10 @@ Ethical theories help to identify important principles or guidelines.
 - [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz)
     +  an American computer programmer, entrepreneur, writer, political organizer and Internet hacktivist.
     +  involved in the development of the web feed format RSS and the Markdown publishing format, the organization Creative Commons, the website framework web.py and the social news site, Reddit, in which he became a partner after its merger with his company, Infogami.
+- [White hat](https://en.wikipedia.org/wiki/White_hat_(computer_security))
+    + Refers to an ethical computer hacker, or a computer security expert, who specializes in penetration testing and in other testing methodologies to ensure the security of an organization's information systems.
+- [Hacktivism or Political hacking]()
+    + the use of hacking to promote a political cause
 
 ### Some other topics to consider...
 
@@ -109,6 +112,7 @@ Ethical theories help to identify important principles or guidelines.
 - Digital divide
     + The gap between demographics and regions that have access to modern information and communications technology, and those that don't or have restricted access. 
     + Include the telephone, television, personal computers and the Internet.
+
 == 
 
 ## Privacy
@@ -205,25 +209,6 @@ Ethical theories help to identify important principles or guidelines.
 
 ==
 
-## [Denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_attack)
-- An attempt to make a machine or network resource unavailable to its intended users, such as to temporarily or indefinitely interrupt or suspend services of a host connected to the Internet.
-- The flood of incoming messages to the target system essentially forces it to shut down, thereby denying service to the system to legitimate users.
-
-==
-
-## [Syn attack](https://en.wikipedia.org/wiki/SYN_flood)
-- A SYN flood is a form of denial-of-service attack in which an attacker sends a succession of SYN requests to a target's system in an attempt to consume enough server resources to make the system unresponsive to legitimate traffic.
-- [Three-way handshake](https://en.wikipedia.org/wiki/Transmission_Control_Protocol#Connection_establishment)
-    1. The client requests a connection by sending a `SYN` (synchronize) message to the server.
-    2. The server acknowledges this request by sending `SYN-ACK` back to the client.
-    3. The client responds with an `ACK`, and the connection is established.
-
-==
-
-## [Check digit](https://en.wikipedia.org/wiki/Check_digit)
-
-==
-
 ## [Big data](https://en.wikipedia.org/wiki/Big_data)
 - http://www.datanami.com/2015/01/07/9-must-skills-land-top-big-data-jobs-2015/
 
@@ -255,39 +240,8 @@ Ethical theories help to identify important principles or guidelines.
 
 ==
 
-## ACM code
-
-
-
-
-==
-
-## Cryptography
-
-- Plain text ==> cipher text
-- encode and decode
-- only authorized party can read
-
-**Encryption** is the process of encoding a message so that its meaning is not obvious; **decryption** is the reverse process, transforming an encrypted message back into its normal, original form.
-
-Alternatively, the terms encode and decode or encipher and decipher are used instead of encrypt and decrypt.  That is, we say that we encode, encrypt, or encipher the original message to hide its meaning. Then, we decode, decrypt, or decipher it to reveal the original message. A system for encryption and decryption is called a cryptosystem.
-
-The original form of a message is known as plaintext, and the encrypted form is called ciphertext.
-
-### Resources
-- [Alice and Bob](https://en.wikipedia.org/wiki/Alice_and_Bob)
-- [Public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
-- [Pretty Good Privacy (PGP)](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
-- [MIT PGP Public Key Server](http://pgp.mit.edu/)
-- [Secure Shell, or SSH](https://en.wikipedia.org/wiki/Secure_Shell)
-- [Encrypting File System (EFS)](https://en.wikipedia.org/wiki/Encrypting_File_System)
-- [Digital signature](https://en.wikipedia.org/wiki/Digital_signature)
-    + [Non-repudiation](https://en.wikipedia.org/wiki/Digital_signature#Non-repudiation)
-    + Asymmetrical
-- [Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
-    + One-way operating, cannot be reverse-engineered 
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Public_key_encryption.svg/375px-Public_key_encryption.svg.png)
+## [ACM code](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery)
+- The Association for Computing Machinery (ACM) is an international learned society for computing. It was founded in 1947 and is the world's largest[2] scientific and educational computing society.
 
 ==
 
@@ -299,3 +253,7 @@ Photographic and video images can reveal great truths, expose wrongdoing and neg
 ==
 
 ## [Steganography](https://en.wikipedia.org/wiki/Steganography)
+- the practice of concealing a file, message, image, or video within another file, message, image, or video
+
+==
+
