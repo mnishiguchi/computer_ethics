@@ -1,6 +1,20 @@
-# Discussion
-Masatoshi Nishiguchi
-Febrary 2, 2016
+# Intellectual property
+
+## Intellectual Property
+- [What Are Some Examples of the Types of Intellectual Property?](https://www.rocketlawyer.com/article/intellectual-property-examples-types-ps.rl)
+- [Copyright and Fair Use](http://ogc.harvard.edu/pages/copyright-and-fair-use)
+
+
+## Fair use
+- a legal doctrine that permits limited use of copyrighted material without acquiring permission from the rights holders.
+- Every author or publisher may make limited use of another person’s copyrighted work for purposes such as criticism, comment, news, reporting, teaching, scholarship, and research. 
+
+==
+
+## Napster
+One of the reasons the court ruled against Napster was it knowingly encouraged people in infringements of copyright
+
+==
 
 ## 1.  Intellectual property is used to describe a unique creation of the human mind that has commercial value.
 Give ten examples of intellectual property
@@ -65,12 +79,6 @@ Digital rights management is actions owners of intellectual property stored in a
 
 ## 9.  A negative right is a right for me to be protected from harm if I try to get something for myself. A positive right would be my right to have something provided for me
 Example: If health care is a negative right, then the state has an obligation to keep people from preventing me from getting health care and discriminating against me. If health care’s a positive right, then the state has an obligation to provide it for me.
-
-## 10. Is privacy a negative right?
-- Yes.
-
-## 11. Does facebook use facial recognition to tag photos? Is this a violation
-- No.
 
 ## Negative rights(liberties) vs positive rights(claim rights) p31
 - https://en.wikipedia.org/wiki/Negative_and_positive_rights
