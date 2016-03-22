@@ -128,3 +128,112 @@ Photographic and video images can reveal great truths, expose wrongdoing and neg
 
 ## Therac-25 and the Ariane 5 rocket
 One of the sources of failure common to BOTH the Therac-25 and the Ariane 5 rocket was **reuse of software from previous versions of the systems**.
+
+==
+
+## Digital watermarking
+- What is embedding small errors into a digital image so that someone viewing the image cannot see the errors with the naked eye, but a special computer program can use the errors to identify the source of the image.
+
+==
+
+## DRM
+- A collection of technologies that work together to ensure that copyrighted content can be only viewed by the person who purchased
+
+==
+
+## BitTorrent
+- the most common currently used peer-to-peer file-sharing protocol; allows companies and common users alike to deliver one large file to millions of users by breaking it up into smaller chunks for transmittal
+
+==
+
+## Rootkit
+-  a piece of software that allows an unauthorized user to override security and get administrator access to a computer
+
+==
+
+## Net Neutrality
+-  a principle that says neither Internet service providers nor governments should impose any restrictions on a user’s access to networks that participate in the Internet because of the legal content of the information transferred, computing platform, point of origin, or point of destination
+
+==
+
+## Luddite
+- people who fear technology; the name adopted by protesters who attacked and destroyed factories using new mechanized looms that contributed to mass unemployment
+
+==
+
+## Trade secret
+- a secret technique or procedure used by a company in manufacturing its products
+
+==
+
+## Digital divide
+- he gap between those members of society who have and use particular technologies and those who don’t
+
+==
+
+## QR code
+- sort of 2-dimensional bar code that can be read by camera phones and computers
+
+==
+
+## [zero-day (or zero-hour or day zero) attack or threat](https://en.wikipedia.org/wiki/Zero-day_(computing))
+- an attack that exploits a previously unidentified vulnerability
+
+==
+
+## Trademark
+- a legally registered word, phrase, symbol, or other item that identifies a particular product, service, or corporation; used synonymously with the word ‘brand’ in the world of marketing
+
+==
+
+## cyberbullies
+- someone who uses the Internet to harass a particular target, usually one known in everyday life, often using fake identities or public Web sites to enable the harassment
+
+==
+
+## Web filter
+-  a program that can screen an incoming Web page to determine whether some or all of it should not be displayed to the user.
+
+==
+
+## Crowdsourcing
+- An online method to get information or ideas from a large group of people
+
+==
+
+## Firewall
+- computer, positioned between a local network and the Internet, that monitors the packets flowing in and out.
+
+==
+
+## Virus
+- A piece of self-replicating code embedded within another program (the host).
+
+==
+
+## Worm
+- self-contained program that spreads through a computer network by exploiting security holes in the computers connected to the network.
+
+==
+
+## Embedded System
+- A computer used as a component of a larger system
+
+==
+
+## Trojan Horse
+- A program with a benign capability that conceals another, sinister purpose. When executed the program performs the expected task along with an unknown negative task.
+
+==
+
+## Bot network
+- According to some estimates, 90 percent of spam is distributed through bot networks.
+
+==
+
+## Denial of Service Attack (DOS)
+- An intentional action designed to prevent legitimate users from making use of a computer service
+
+
+
+
