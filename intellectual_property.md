@@ -1,4 +1,79 @@
 # Intellectual property
+- used to describe a unique creation of the human mind that has commercial value.
+- Examples includes:
+    + Photographs
+    + Technology
+    + Logo
+    + Slogan
+    + Color
+    + Sound
+    + Novels
+    + Films
+    + Music
+    + Paintings
+    + Architectual designs
+
+### trademark vs trade secret
+- [trademark](https://en.wikipedia.org/wiki/Trademark):
+    + a recognizable sign, design, or expression which identifies products or services of a particular source from those of others, although trademarks used to identify services are usually called service marks.
+    + identifies the brand owner of a particular product or service. 
+    + can be licensed to others;
+- [trade secret](https://en.wikipedia.org/wiki/Trade_secret)
+    + a formula, practice, process, design, instrument, pattern, commercial method, or compilation of information which is not generally known or reasonably ascertainable by others, and by which a business can obtain an economic advantage over competitors or customers. 
+        * e.g., Coca-cola recipe
+- cf. [Reverse engineering](https://en.wikipedia.org/wiki/Reverse_engineering): also called back engineering, is the processes of extracting knowledge or design information from anything man-made and re-producing it or reproducing anything based on the extracted information.
+
+### [Digital Millennium Copyright Act (DMCA)](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)
+    + a United States copyright law that implements two 1996 treaties of the **World Intellectual Property Organization (WIPO)**
+    + criminalizes **production and dissemination of technology, devices, or services intended to circumvent measures** (commonly known as digital rights management or DRM) that control access to copyrighted works.
+    + criminalizes the act of **circumventing an access control**, whether or not there is actual infringement of copyright itself
+
+### [Digital rights management (DRM)](https://en.wikipedia.org/wiki/Digital_rights_management)
+    + various access control technologies that are used to restrict the usage of proprietary software, hardware, or content
+        * e.g., copy protection 
+
+### [Copyright](https://en.wikipedia.org/wiki/Copyright)
+- US copyright gives authors the right to:
+    * reproduce the copyrighted work
+    * prepare derivative works based upon the copyrighted work
+    * distribute copies of the copyrighted work to the public by sale or other transfer of ownership, or by rental, lease, or lending
+    * perform or display the copyrighted work publicly 
+- [Understanding Photographic Copyright](http://www.ppa.com/content.cfm?ItemNumber=1720) (PROFESSIONAL PHOTOGRAPHERS OF AMERICA)
+    + Copyright is a property right.
+    + Just because you buy a print does not mean you have purchased the copyright.
+    + Professional photographers are the smallest of small copyright holders.
+    Under the Federal Copyright Act of 1976, photographs are protected by copyright from the moment of creation.
+    + Photographers have the exclusive right to reproduce their photographs (right to control the making of copies). Copyright
+    + Unless you have permission from the photographer, you can’t copy, distribute (no scanning and sending them to others), publicly display (no putting them online), or create derivative works from photographs.
+    + A photographer can easily create over 20,000 separate pieces of intellectual property annually.
+    + Professional photographers are dependent on their ability to control the reproduction of the photographs they create.
+    + It affects their income and the livelihood of their families.
+    + Even small levels of infringement—copying a photo without permission—can have a devastating impact on a photographer’s ability to make a living.
+    + Copyright infringements—reproducing photos without permission—can result in civil and criminal penalties.
+- [Why You Don’t Own Your Wedding Photos: How to Own Your Wedding Day & Copyrights to Your Wedding Day Photos](http://blog.kunvay.com/why-you-dont-own-your-wedding-photos-how-to-own-your-wedding-day-copyrights-to-your-wedding-day-photos/)
+    + Under U.S. copyright law, the original owner of a created work is exclusively the creator, unless it’s a ‘work for hire’. In the wedding scenario, a photographer is hardly ever ‘for hire,’ and so we end up with the typical Nuptials situation. Even though married couples spend thousands for a photographer to cast their most memorable moments in just the right light, they may never actually own the results.
+    + The copyright owner of wedding photos is the wedding photographer.
+    + Most often, the photographer exercises this right fully, charging a hefty fee for reproductions, usually burned onto a DVD and sold to the couple. Many photographers, though they absolutely could, would never sell or transfer their copyright to anyone else due to the highly lucrative nature of such rights.
+- https://en.wikipedia.org/wiki/Happy_Birthday_to_You#Copyright_status
+- [YOU HAVE EVERY RIGHT TO PHOTOGRAPH THAT COP](https://www.aclu.org/news/you-have-every-right-photograph-cop)
+
+==
+
+## Digital rights management (DRM)
+- a collection of technologies that work together to ensure that copyrighted content can be only viewed by the person who purchased it
+
+==
+
+## Digital Millennium Copyright Act (DMCA)
+- law passed by US Congress in 1998 to deal with modern copyright issues
+- Anticircumvention clause: “No person shall circumvent a technological measure that effectively controls access to a work protected under this title.”
+
+==
+
+## fair use of a copyrighted work
+- According to US Code, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright.
+
+==
 
 ## Intellectual Property
 - [What Are Some Examples of the Types of Intellectual Property?](https://www.rocketlawyer.com/article/intellectual-property-examples-types-ps.rl)
