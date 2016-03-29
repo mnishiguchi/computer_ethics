@@ -234,6 +234,56 @@ One of the sources of failure common to BOTH the Therac-25 and the Ariane 5 rock
 ## Denial of Service Attack (DOS)
 - An intentional action designed to prevent legitimate users from making use of a computer service
 
+==
 
+## [Critical Infrastructure Sectors](https://www.dhs.gov/critical-infrastructure-sectors)
+There are 16 critical infrastructure sectors whose assets, systems, and networks, whether physical or virtual, are considered so vital to the United States that their incapacitation or destruction would have a debilitating effect on security, national economic security, national public health or safety, or any combination thereof.
+
+- Chemical Sector
+- Commercial Facilities Sector
+- Communications Sector
+- Critical Manufacturing Sector
+- Dams Sector
+- Defense Industrial Base Sector
+- Emergency Services Sector
+- Energy Sector
+- Financial Services Sector
+- Food and Agriculture Sector
+- Government Facilities Sector
+- Healthcare and Public Health Sector
+- Information Technology Sector
+- Nuclear Reactors, Materials, and Waste Sector
+- Transportation Systems Sector
+- Water and Wastewater Systems Sector
+
+https://en.wikipedia.org/wiki/Critical_infrastructure
+
+==
+
+## Cyber terrorism
+1. Politically motivated hacking operations intended to cause grave harm—that is, resulting in either loss of life or severe economic loss, or both is called ________________
+
+2. Actions intended to protect, exploit, corrupt, deny, or destroy information or information resources in order to achieve a significant advantage, objective, or victory over an adversary is called __________ 
+
+3. A method used by phishers to deceive users into believing that they are communicating with a legitimate Web site is called _________ 
+Ans. Pharming
+
+4. An attack in which one user takes up so much of a shared resource that none of the resource is left for other users is called _____________ 
+Ans. Denial of service attack
+
+5. Sending unsolicited commercial e-mail advertising for products, services, and Web sites is called __________
+Ans. Spam
+
+6. A high-tech scam that frequently uses spam or pop-up messages to deceive people into disclosing their credit card numbers, bank account information, Social Security numbers, passwords, or other sensitive information is called ______________ 
+Ans. Phishing
+
+7. Creating a fraudulent Web site to mimic an actual, well-known Web site run by another party is called ____________
+Ans. Spoofing
+
+==
+
+## Wireshark
+- https://www.wireshark.org/
+- http://www.arl.wustl.edu/~jst/cse/473/labs/studio1-supplement.pdf
 
 
