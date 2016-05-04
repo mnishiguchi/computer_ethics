@@ -18,15 +18,15 @@ Threats](https://www.sans.org/reading-room/whitepapers/threats/spoofing-overview
     + A network security system that monitors and controls the incoming and outgoing network traffic based on predetermined security rules.
     + Typically establishes a barrier between a trusted, secure internal network and another outside network, such as the Internet, that is assumed to not be secure or trusted.
     + A set of rules that is configured by the security guys.
-        * `allow all` vs `deny all` 
+        * `allow all` vs `deny all`
 
-==
+---
 
 ## [Denial-of-service attack](https://en.wikipedia.org/wiki/Denial-of-service_attack)
 - An attempt to make a machine or network resource unavailable to its intended users, such as to temporarily or indefinitely interrupt or suspend services of a host connected to the Internet.
 - The flood of incoming messages to the target system essentially forces it to shut down, thereby denying service to the system to legitimate users.
 
-==
+---
 
 ## [Syn attack](https://en.wikipedia.org/wiki/SYN_flood)
 - A SYN flood is a form of denial-of-service attack in which an attacker sends a succession of SYN requests to a target's system in an attempt to consume enough server resources to make the system unresponsive to legitimate traffic.
@@ -35,15 +35,15 @@ Threats](https://www.sans.org/reading-room/whitepapers/threats/spoofing-overview
     2. The server acknowledges this request by sending `SYN-ACK` back to the client.
     3. The client responds with an `ACK`, and the connection is established.
 
-==
+---
 
 ## [Check digit](https://en.wikipedia.org/wiki/Check_digit)
 
-==
+---
 
 ## Cryptography
 
-- Plain text ==> cipher text
+- Plain text ---> cipher text
 - encode and decode
 - only authorized party can read
 
@@ -64,7 +64,14 @@ The original form of a message is known as plaintext, and the encrypted form is 
     + [Non-repudiation](https://en.wikipedia.org/wiki/Digital_signature#Non-repudiation)
     + Asymmetrical
 - [Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
-    + One-way operating, cannot be reverse-engineered 
+    + One-way operating, cannot be reverse-engineered
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Public_key_encryption.svg/375px-Public_key_encryption.svg.png)
 
+---
+
+### Web filter
+-  a program that can screen an incoming Web page to determine whether some or all of it should not be displayed to the user.
+
+### Firewall
+- computer, positioned between a local network and the Internet, that monitors the packets flowing in and out.
